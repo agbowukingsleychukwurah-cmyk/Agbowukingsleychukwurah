@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Kingsley chukwurah 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -15,7 +15,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyyics passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analytics passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
@@ -28,12 +28,7 @@ When I'm not working with data, I enjoy playing football, table tennis, swimming
 
 - **Project A:** Collect an employee's details and calculate their monthly salary information in Python for data analysis
 - **Project B:** Retail Business Performance Analysis & Decision Dashboard in power bi
-- **Content Creation:** 
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **Content Creation:**
 
 ## 🛠️ Technical Skillset
 
